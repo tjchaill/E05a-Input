@@ -1,3 +1,5 @@
+This project helped me to understand some aspects of Godot such as how to use the viewfinder, how to use and understand vectors, and how to manipulate mouse position and keystrokes. 
+
 # E05-Input
 
 This is an exercise to help you become accustomed to how Godot treats user input.

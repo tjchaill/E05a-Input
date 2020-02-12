@@ -43,7 +43,8 @@ margin_left = 16.0
 margin_top = 16.0
 margin_right = 128.0
 margin_bottom = 48.0
-text = "x, y"
+text = "
+"
 align = 1
 valign = 1
 script = ExtResource( 3 )
